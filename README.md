@@ -9,6 +9,8 @@
 أحب التعليم العملي وتبسيط المفاهيم التقنية لتناسب الجميع.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40EngAlmuatasim-blue?style=flat&logo=telegram)](https://t.me/EngAlmuatasim)  
+📧 Email: [Alwahbyasoom52995@gmail.com](mailto:Alwahbyasoom52995@gmail.com)  
+👨‍💻 GitHub: [EngAlmuatasim](https://github.com/EngAlmuatasim)  
 ![Profile Views](https://komarev.com/ghpvc/?username=EngAlmuatasim&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
@@ -25,8 +27,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -39,18 +39,22 @@
 
 ---
 
-## 📘 حالياً أتعلم:
+## 🧠 حالياً أتعلم:
 
+- **C++** و **C#** لبناء التطبيقات والبرمجيات متعددة الأغراض
+- **HTML, CSS, JavaScript** لتطوير واجهات الويب
 - أساسيات **الذكاء الاصطناعي** العملي
 - **الخوارزميات** وهيكلة البيانات باستخدام بايثون
-- التعامل مع أدوات بيئة لينكس وTermux
-- إعداد قواعد البيانات وربطها عبر VS Code وSQLTools
+- إعداد بيئة لينكس وTermux ودمجها بـ VS Code
+- قواعد البيانات وربطها بـ SQLTools
 
 ---
 
 ## 🗨️ تواصل معي
 
-لا تتردد بالتواصل معي عبر [Email](https://Alwahbyasoom52995@gmail.com).
+هل لديك سؤال عن الذكاء الاصطناعي، Python، Linux، Git، أو تطوير الويب؟  
+📮 **راسلني على:** [Telegram](https://t.me/EngAlmuatasim)  
+✉️ **بريدي الإلكتروني:** [Alwahbyasoom52995@gmail.com](mailto:Alwahbyasoom52995@gmail.com)
 
 ---
 
